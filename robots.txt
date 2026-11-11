@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seoboise.github.io/idaho-personal-injury-faq-955881934/sitemap.xml
